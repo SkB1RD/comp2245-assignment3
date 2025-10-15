@@ -1,1 +1,3 @@
-# SkB1RD-comp2245-assignment3
+comp2245-assignment3
+
+This is Assignment 3 for Joshua Langford
